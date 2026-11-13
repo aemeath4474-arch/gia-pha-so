@@ -1,0 +1,230 @@
+{
+  "cuon_gia_pha": {
+    "identifier": "A.1046",
+    "title": "Bối Khê Trạng nguyên gia phả",
+    "ten_dong_ho": "Dòng họ Nguyễn ở Bối Khê",
+    "chi_phai": "Dòng họ Nguyễn làng Bối Khê (gắn với phần thế thứ họ Nguyễn)",
+    "creator": "Theo tài liệu nghiên cứu dẫn lại: do con cháu dòng họ (tiêu biểu là Nguyễn Lữ Hạnh khoảng năm 1496) khởi soạn, Tiến sĩ Nguyễn Hữu Quýnh và các đời sau biên tập, sao chép (chưa đối chiếu trực tiếp văn bản A.1046)",
+    "date": "Bản gốc khởi thảo khoảng năm Hồng Đức thứ 27 (1496); bản A.1046 là bản sao chép (chưa xác định năm sao chép cụ thể trên hiện vật)",
+    "ngon_ngu_va_he_chu": "Chữ Hán (thư tịch Hán Nôm cổ — chờ đối chiếu trực tiếp bản A.1046)",
+    "loai_ban": "Bản sao chép tay",
+    "chat_lieu": "Chưa kiểm chứng trực tiếp (cần khảo sát hiện vật tại kho lưu trữ)",
+    "kich_thuoc": "Chưa đo đạc trực tiếp (chưa tiếp cận hiện vật A.1046)",
+    "tinh_trang_vat_ly": "Chưa khảo sát trực tiếp hiện vật; theo một tài liệu nghiên cứu dẫn lại, bản A.1046 là bản đã được sao lại.",
+    "so_trang_vat_ly": 0,
+    "noi_luu_giu_hien_nay": "Thư viện Viện Nghiên cứu Hán Nôm (nơi được dẫn là đang lưu giữ)",
+    "thon": "Làng Bối Khê",
+    "xa_phuong": "Xã Tam Hưng",
+    "tinh_thanh_pho": "Thành phố Hà Nội",
+    "nguoi_dang_luu_giu": "Thư viện Viện Nghiên cứu Hán Nôm (đơn vị lưu trữ được dẫn)",
+    "thoi_diem_tiep_nhan": "Chưa tiếp nhận trực tiếp bản chụp (đã ghi nhận cấu trúc sơ bộ theo nguồn dẫn thư mục)",
+    "mo_ta_tong_quat": "Tư liệu về dòng họ Nguyễn ở Bối Khê (ký hiệu A.1046, được dẫn là đang lưu giữ tại Thư viện Viện Nghiên cứu Hán Nôm), có phần gia phả và thế thứ dòng họ. Một tài liệu nghiên cứu dẫn rằng bản A.1046 đã được sao lại; nội dung gồm các phần: Bối Khê Trạng nguyên gia phả và Bối Khê Nguyễn tộc gia phả thế thứ.",
+    "rights": "Chờ xác nhận quyền khai thác, sao chụp và công bố tư liệu từ Thư viện Viện Nghiên cứu Hán Nôm hoặc đại diện dòng họ Nguyễn ở Bối Khê.",
+    "ghi_chu": "Các trang và phả hệ hiện đang ở trạng thái Đang đối chiếu (tổng hợp từ nguồn dẫn thư mục và sử liệu đã công bố về A.1046); chưa có ảnh chụp từng tờ gốc để xác nhận khớp bản gốc."
+  },
+  "xac_nhan_cong_bo": {
+    "da_dong_y_cong_bo": false,
+    "ho_ten_nguoi_dai_dien": "",
+    "vai_tro_trong_dong_ho": "",
+    "ngay_xac_nhan": "",
+    "pham_vi_cong_khai": "Hạn chế / Nội bộ",
+    "cho_phep_hien_thi_anh_goc": false,
+    "cho_phep_xuat_ban_so": false,
+    "noi_dung_han_che_rieng_tu": "Không công khai thông tin cá nhân riêng tư của người còn sống, địa chỉ liên hệ riêng hoặc nội dung chưa được người đại diện dòng họ / đơn vị lưu trữ cho phép.",
+    "ghi_chu_xac_nhan": ""
+  },
+  "trang_ban_goc": [
+    {
+      "id": "TRANG-001",
+      "so_trang": 1,
+      "ky_hieu_trang_goc": "Phần I – Nhan đề / Mở đầu",
+      "tieu_de_trang": "Bối Khê Trạng nguyên gia phả (貝溪狀元家譜)",
+      "nhom_noi_dung": "Bìa / Tựa",
+      "anh_ban_goc": {
+        "duong_dan_anh": "",
+        "ten_tep_goc": "",
+        "chu_thich_anh": "Chưa có ảnh chụp tờ bìa / tựa thực tế của bản A.1046; đang hiển thị khung chờ nạp ảnh thật từ Thư viện Viện Nghiên cứu Hán Nôm.",
+        "anh_chat_luong_cao_luu_tru": "/tulieu/goc/A1046-phan-01-cho-chup.tiff",
+        "ngay_chup": "",
+        "nguon_chup": "Chờ chụp trực tiếp từ bản A.1046 tại Thư viện Viện Nghiên cứu Hán Nôm"
+      },
+      "noi_dung_ban_nhap": {
+        "nguyen_van_chu_goc": "貝溪狀元家譜\n[Chờ nạp ảnh chụp từng tờ bản A.1046 để chép nguyên văn chữ Hán từng dòng]",
+        "phien_am": "Bối Khê Trạng nguyên gia phả (Ký hiệu lưu trữ dẫn lại: A.1046).",
+        "dich_nghia": "Phần mở đầu của tập gia phả dòng họ Nguyễn làng Bối Khê, ghi chép nguồn gốc, thân thế và sự nghiệp khoa bảng gắn với Lưỡng quốc Trạng nguyên Nguyễn Trực (1417–1474).",
+        "tom_tat_noi_dung": "Xác định nhan đề chính thức của tập tư liệu A.1046 theo thông tin thư mục và mục lục thư tịch Hán Nôm.",
+        "ghi_chu_trang": "Mới đối chiếu theo mục lục thư mục; cần ảnh chụp tờ đầu bản A.1046 để kiểm tra số tờ, dòng lạc khoản và ấn triện."
+      },
+      "trang_thai_doi_chieu": "Đang đối chiếu",
+      "nguoi_doi_chieu": "Nguyễn Văn An (tổng hợp sơ bộ từ thư mục)",
+      "ngay_doi_chieu": ""
+    },
+    {
+      "id": "TRANG-002",
+      "so_trang": 2,
+      "ky_hieu_trang_goc": "Phần I – Phả ký & Hành trạng",
+      "tieu_de_trang": "Thân thế và hành trạng Lưỡng quốc Trạng nguyên Nguyễn Trực (1417–1474)",
+      "nhom_noi_dung": "Tiểu sử nhân vật",
+      "anh_ban_goc": {
+        "duong_dan_anh": "",
+        "ten_tep_goc": "",
+        "chu_thich_anh": "Chưa có ảnh chụp các tờ phả ký thực tế trong bản A.1046.",
+        "anh_chat_luong_cao_luu_tru": "/tulieu/goc/A1046-phan-02-cho-chup.tiff",
+        "ngay_chup": "",
+        "nguon_chup": "Chờ chụp trực tiếp từ bản A.1046 tại Thư viện Viện Nghiên cứu Hán Nôm"
+      },
+      "noi_dung_ban_nhap": {
+        "nguyen_van_chu_goc": "[Chờ ảnh chụp bản gốc A.1046 để trích nguyên văn chữ Hán phần hành trạng và thơ văn Nguyễn Trực]",
+        "phien_am": "Nguyễn Trực (tự Công Dĩnh, hiệu Hu Liêu / Chữ Liêu), sinh năm Đinh Dậu (1417), mất năm 1474, người làng Bối Khê (nay thuộc xã Tam Hưng, Hà Nội).",
+        "dich_nghia": "Theo các tài liệu nghiên cứu dẫn từ thư tịch A.1046: Nguyễn Trực đỗ Đệ nhất giáp Tiến sĩ cập khoa (Trạng nguyên) khoa thi Nhâm Tuất 1442 triều vua Lê Thái Tông, là vị Trạng nguyên đầu tiên được khắc tên trên bia Tiến sĩ Văn Miếu – Quốc Tử Giám; khi đi sứ nhà Minh từng được tôn vinh là Lưỡng quốc Trạng nguyên.",
+        "tom_tat_noi_dung": "Nội dung trọng tâm phần Bối Khê Trạng nguyên gia phả ghi nhận hành trạng, sự nghiệp khoa bảng và trước tác của Trạng nguyên Nguyễn Trực.",
+        "ghi_chu_trang": "Nội dung tóm tắt từ nguồn nghiên cứu dẫn lại A.1046; chưa phải bản chép từng chữ từ ảnh chụp hiện vật."
+      },
+      "trang_thai_doi_chieu": "Đang đối chiếu",
+      "nguoi_doi_chieu": "Nguyễn Văn An (tổng hợp sơ bộ từ thư mục)",
+      "ngay_doi_chieu": ""
+    },
+    {
+      "id": "TRANG-003",
+      "so_trang": 3,
+      "ky_hieu_trang_goc": "Phần II – Bối Khê Nguyễn tộc gia phả thế thứ",
+      "tieu_de_trang": "Bối Khê Nguyễn tộc gia phả thế thứ (Phả hệ dòng họ Nguyễn Bối Khê)",
+      "nhom_noi_dung": "Phả đồ / Thế thứ",
+      "anh_ban_goc": {
+        "duong_dan_anh": "",
+        "ten_tep_goc": "",
+        "chu_thich_anh": "Chưa có ảnh chụp các tờ ghi thế thứ thực tế trong bản A.1046.",
+        "anh_chat_luong_cao_luu_tru": "/tulieu/goc/A1046-phan-03-cho-chup.tiff",
+        "ngay_chup": "",
+        "nguon_chup": "Chờ chụp trực tiếp từ bản A.1046 tại Thư viện Viện Nghiên cứu Hán Nôm"
+      },
+      "noi_dung_ban_nhap": {
+        "nguyen_van_chu_goc": "[Chờ ảnh chụp bản gốc A.1046 để đối chiếu đầy đủ nguyên văn phần Bối Khê Nguyễn tộc gia phả thế thứ]",
+        "phien_am": "Bối Khê Nguyễn tộc gia phả thế thứ: ghi nhận truyền thống khoa bảng qua các đời từ cụ nội Nguyễn Tử Hữu -> ông nội Nguyễn Bính -> cha Nguyễn Thì Trung -> Trạng nguyên Nguyễn Trực -> con trai Nguyễn Lữ Hạnh.",
+        "dich_nghia": "Phần thế thứ ghi chép hệ thống các thế hệ trong dòng họ Nguyễn ở Bối Khê. Tuyến truyền thừa 5 đời trực hệ gắn với Nguyễn Trực đã được nhiều công trình nghiên cứu dẫn lại; các chi nhánh và đời kế tiếp cần đối chiếu trực tiếp trên ảnh chụp bản A.1046 để ghi đầy đủ, tránh sai sót.",
+        "tom_tat_noi_dung": "Cấu trúc phần Bối Khê Nguyễn tộc gia phả thế thứ làm căn cứ dựng sơ đồ phả hệ 5 đời đã kiểm chứng nguồn sử liệu.",
+        "ghi_chu_trang": "Mới ghi nhận tuyến thế thứ cốt lõi đã được các công trình sử học công bố; cần kiểm tra nguyên bản A.1046 để bổ sung các đời sau và phối ngẫu."
+      },
+      "trang_thai_doi_chieu": "Đang đối chiếu",
+      "nguoi_doi_chieu": "Nguyễn Văn An (tổng hợp sơ bộ từ thư mục)",
+      "ngay_doi_chieu": ""
+    },
+    {
+      "id": "TRANG-004",
+      "so_trang": 4,
+      "ky_hieu_trang_goc": "Phần biên tập & sao chép lại",
+      "tieu_de_trang": "Ghi nhận quá trình biên soạn và tình trạng bản sao A.1046",
+      "nhom_noi_dung": "Phả ký / Lịch sử dòng họ",
+      "anh_ban_goc": {
+        "duong_dan_anh": "",
+        "ten_tep_goc": "",
+        "chu_thich_anh": "Chưa có ảnh chụp tờ cuối / lời bạt của bản sao A.1046.",
+        "anh_chat_luong_cao_luu_tru": "/tulieu/goc/A1046-phan-04-cho-chup.tiff",
+        "ngay_chup": "",
+        "nguon_chup": "Chờ chụp trực tiếp từ bản A.1046 tại Thư viện Viện Nghiên cứu Hán Nôm"
+      },
+      "noi_dung_ban_nhap": {
+        "nguyen_van_chu_goc": "[Chờ ảnh chụp lời bạt / dòng lạc khoản sao chép trên bản A.1046]",
+        "phien_am": "Theo tài liệu nghiên cứu dẫn lại, bản A.1046 là bản đã được sao lại, có sự biên soạn ban đầu của Nguyễn Lữ Hạnh (khoảng năm Hồng Đức thứ 27 – 1496) và phần biên tập của Tiến sĩ Nguyễn Hữu Quýnh.",
+        "dich_nghia": "Trang tổng hợp thông tin văn bản học về lịch sử truyền bản: phân biệt giữa bản khởi thảo gốc thời Lê sơ với bản sao ký hiệu A.1046 hiện lưu giữ tại Thư viện Viện Nghiên cứu Hán Nôm.",
+        "tom_tat_noi_dung": "Làm rõ tính chất bản sao chép tay của A.1046 và nhiệm vụ đối chiếu thực tế khi tiếp nhận ảnh chụp.",
+        "ghi_chu_trang": "Trạng thái Chưa nhập nội dung nguyên văn vì chưa có ảnh tờ bạt gốc."
+      },
+      "trang_thai_doi_chieu": "Chưa nhập nội dung",
+      "nguoi_doi_chieu": "",
+      "ngay_doi_chieu": ""
+    }
+  ],
+  "thanh_vien_pha_he": [
+    {
+      "id": "TV-001",
+      "ho_ten": "Nguyễn Tử Hữu",
+      "ten_huy_ten_tu": "",
+      "doi_thu": 1,
+      "chi_phai": "Dòng họ Nguyễn làng Bối Khê",
+      "gioi_tinh": "Nam",
+      "cha_id": null,
+      "me_id": null,
+      "ten_vo_chong": "",
+      "nam_sinh": "",
+      "nam_mat_hoac_gio": "",
+      "vai_tro_tieu_su": "Cụ nội của Trạng nguyên Nguyễn Trực. Theo sử liệu và nghiên cứu từ nguồn Hán Nôm về họ Nguyễn Bối Khê, từng giữ chức Hàn lâm viện thị giảng, Thiêm tri hình viện sự dưới triều Trần.",
+      "can_cu_trang_ids": ["TRANG-003"],
+      "trang_thai_kiem_chung": "Đang đối chiếu",
+      "la_nguoi_con_song": false,
+      "an_thong_tin_rieng_tu": false
+    },
+    {
+      "id": "TV-002",
+      "ho_ten": "Nguyễn Bính",
+      "ten_huy_ten_tu": "Nguyễn Tử Bính",
+      "doi_thu": 2,
+      "chi_phai": "Dòng họ Nguyễn làng Bối Khê",
+      "gioi_tinh": "Nam",
+      "cha_id": "TV-001",
+      "me_id": null,
+      "ten_vo_chong": "",
+      "nam_sinh": "",
+      "nam_mat_hoac_gio": "",
+      "vai_tro_tieu_su": "Ông nội của Trạng nguyên Nguyễn Trực; giữ chức Nho học huấn đạo phủ Ứng Thiên.",
+      "can_cu_trang_ids": ["TRANG-003"],
+      "trang_thai_kiem_chung": "Đang đối chiếu",
+      "la_nguoi_con_song": false,
+      "an_thong_tin_rieng_tu": false
+    },
+    {
+      "id": "TV-003",
+      "ho_ten": "Nguyễn Thì Trung",
+      "ten_huy_ten_tu": "Nguyễn Thời Trung",
+      "doi_thu": 3,
+      "chi_phai": "Dòng họ Nguyễn làng Bối Khê",
+      "gioi_tinh": "Nam",
+      "cha_id": "TV-002",
+      "me_id": null,
+      "ten_vo_chong": "",
+      "nam_sinh": "",
+      "nam_mat_hoac_gio": "",
+      "vai_tro_tieu_su": "Thân phụ của Trạng nguyên Nguyễn Trực; đỗ Tiến sĩ, từng giữ chức Quốc tử giám Giáo thụ.",
+      "can_cu_trang_ids": ["TRANG-003"],
+      "trang_thai_kiem_chung": "Đang đối chiếu",
+      "la_nguoi_con_song": false,
+      "an_thong_tin_rieng_tu": false
+    },
+    {
+      "id": "TV-004",
+      "ho_ten": "Nguyễn Trực",
+      "ten_huy_ten_tu": "Tự Công Dĩnh, hiệu Hu Liêu (Chữ Liêu)",
+      "doi_thu": 4,
+      "chi_phai": "Dòng họ Nguyễn làng Bối Khê",
+      "gioi_tinh": "Nam",
+      "cha_id": "TV-003",
+      "me_id": null,
+      "ten_vo_chong": "",
+      "nam_sinh": "Đinh Dậu (1417)",
+      "nam_mat_hoac_gio": "1474",
+      "vai_tro_tieu_su": "Lưỡng quốc Trạng nguyên; đỗ Đệ nhất giáp Tiến sĩ cập khoa (Trạng nguyên) khoa Nhâm Tuất 1442 triều Lê Thái Tông, người làng Bối Khê.",
+      "can_cu_trang_ids": ["TRANG-002", "TRANG-003"],
+      "trang_thai_kiem_chung": "Đang đối chiếu",
+      "la_nguoi_con_song": false,
+      "an_thong_tin_rieng_tu": false
+    },
+    {
+      "id": "TV-005",
+      "ho_ten": "Nguyễn Lữ Hạnh",
+      "ten_huy_ten_tu": "",
+      "doi_thu": 5,
+      "chi_phai": "Dòng họ Nguyễn làng Bối Khê",
+      "gioi_tinh": "Nam",
+      "cha_id": "TV-004",
+      "me_id": null,
+      "ten_vo_chong": "",
+      "nam_sinh": "",
+      "nam_mat_hoac_gio": "",
+      "vai_tro_tieu_su": "Con trai của Trạng nguyên Nguyễn Trực; giữ chức Tri phủ Thao Giang, được thư tịch dẫn là người tham gia khởi thảo gia phả dòng họ khoảng năm Hồng Đức thứ 27 (1496).",
+      "can_cu_trang_ids": ["TRANG-003", "TRANG-004"],
+      "trang_thai_kiem_chung": "Đang đối chiếu",
+      "la_nguoi_con_song": false,
+      "an_thong_tin_rieng_tu": false
+    }
+  ]
+}

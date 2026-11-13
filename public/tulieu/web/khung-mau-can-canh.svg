@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Khung mẫu vị trí ảnh cận cảnh nét chữ và dấu triện">
+  <rect width="800" height="600" fill="#EFEAE0" />
+  <rect x="24" y="24" width="752" height="552" fill="#FBF9F5" stroke="#D6CEBE" stroke-width="2" />
+  <circle cx="400" cy="300" r="150" fill="none" stroke="#D6CEBE" stroke-width="1.5" stroke-dasharray="8 4" />
+  <text x="400" y="265" text-anchor="middle" font-family="serif" font-size="22" font-weight="600" fill="#292524">
+    KHUNG MẪU VỊ TRÍ ẢNH CẬN CẢNH
+  </text>
+  <text x="400" y="300" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#57534E">
+    Dành cho ảnh phóng đại nét chữ Hán Nôm, dấu triện hoặc niên đại
+  </text>
+  <text x="400" y="332" text-anchor="middle" font-family="monospace" font-size="12" fill="#78716C">
+    Đang chờ bổ sung ảnh chụp cận cảnh thực tế
+  </text>
+</svg>

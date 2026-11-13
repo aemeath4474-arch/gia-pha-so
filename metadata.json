@@ -1,0 +1,6 @@
+{
+  "name": "Gia Phả Số – Cội Nguồn Việt",
+  "description": "Vietnamese Digital Genealogy — Ứng dụng web số hóa, lưu trữ, bảo tồn và tra cứu tư liệu gia phả dòng họ từ bản chép tay sang bản số.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

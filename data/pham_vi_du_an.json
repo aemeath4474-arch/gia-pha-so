@@ -1,0 +1,80 @@
+{
+  "ten_ung_dung": "Gia Phả Số – Cội Nguồn Việt",
+  "ten_tieng_anh": "Vietnamese Digital Genealogy",
+  "ma_de_tai": "B02",
+  "nhom_y_tuong": "Tư liệu Hán Nôm còn trong cộng đồng",
+  "ten_de_tai": "Gia phả dòng họ từ bản chép tay sang bản số",
+  "mo_ta_pham_vi": "Ứng dụng tập trung số hóa trọn vẹn MỘT cuốn gia phả cụ thể của một dòng họ từ bản chép tay sang bản số: lưu giữ ảnh chụp từng trang gốc, nhập và đối chiếu nội dung bản số, hỗ trợ nhận diện chữ Hán Nôm, dựng sơ đồ cây phả hệ có căn cứ và quản lý xác nhận đồng ý công bố của dòng họ.",
+  "don_vi_thuc_hien": "Sản phẩm thực tập của Nguyễn Văn An, mã sinh viên PH70154, mã đề tài B02, Chương trình Thực tập sinh Đợt 15 FPT Polytechnic và IMTA TECH, dự án xã hội phi lợi nhuận.",
+  "nguyen_tac_bao_ton": [
+    "Số hóa một cuốn gia phả cụ thể theo từng trang, giữ tách biệt bản ảnh lưu trữ gốc chất lượng cao và bản hiển thị tối ưu cho web.",
+    "Không tự tạo ảnh bản gốc, không bịa đặt tên người, niên đại hay quan hệ huyết thống khi chưa có tư liệu thật.",
+    "Mọi kết quả nhận diện chữ Hán Nôm từ Gemini đều gắn nhãn Chưa kiểm chứng và phải qua đối chiếu trực tiếp với ảnh trang gốc.",
+    "Chỉ cho phép công bố và xuất tệp dữ liệu công khai khi có xác nhận tại Ô đồng ý công bố của dòng họ hoặc người đại diện có thẩm quyền."
+  ],
+  "nguon_tham_khao_chinh": [
+    {
+      "id": 1,
+      "ten_nguon": "Nguồn sử liệu gia phả",
+      "don_vi_cung_cap": "Trung tâm Lưu trữ quốc gia – Cục Văn thư và Lưu trữ nhà nước",
+      "duong_dan": "https://www.archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/nguon-su-lieu-gia-pha.htm",
+      "nhom_nguon": "Nguồn nghiên cứu gia phả",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200)",
+      "mo_ta_gia_tri": "Tài liệu giới thiệu nghiệp vụ khái quát tên gọi (Phổ ký, Phổ truyền, Ngọc phả, Thế phả) và giá trị sử liệu của gia phả trong nghiên cứu lịch sử gia đình, dòng họ."
+    },
+    {
+      "id": 2,
+      "ten_nguon": "Nghiên cứu, số hóa và biên mục tài liệu Gia phả Việt Nam",
+      "don_vi_cung_cap": "Viện Nghiên cứu Hán Nôm – Viện Hàn lâm Khoa học xã hội Việt Nam",
+      "duong_dan": "https://vass.gov.vn/hoat-dong-cac-don-vi-truc-thuoc/vien-nghien-cuu-han-nom-to-chuc-danh-gia-nhiem-vu-nghien-cuu-so-hoa-bien-muc-chi-tiet-tai-lieu-gia--581196",
+      "nhom_nguon": "Nguồn nghiên cứu gia phả",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200)",
+      "mo_ta_gia_tri": "Thông tin đánh giá nhiệm vụ nghiên cứu, số hóa và biên mục chi tiết tài liệu gia phả dưới góc độ văn bản học, tư liệu học và định hướng xây dựng cơ sở dữ liệu gia phả."
+    },
+    {
+      "id": 3,
+      "ten_nguon": "Kho tàng thư tịch cổ Hán Nôm (Thư viện số Hán Nôm)",
+      "don_vi_cung_cap": "Thư viện Quốc gia Việt Nam",
+      "duong_dan": "http://hannom.nlv.gov.vn",
+      "nhom_nguon": "Nguồn tra cứu Hán Nôm",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200, giao thức HTTP)",
+      "mo_ta_gia_tri": "Cổng tra cứu trực tuyến thư tịch cổ Hán Nôm, hỗ trợ đối chiếu thuật ngữ, tự dạng và cấu trúc gia phả truyền thống."
+    },
+    {
+      "id": 4,
+      "ten_nguon": "Thư viện số Hán Nôm & Công cụ tra cứu chữ Nôm",
+      "don_vi_cung_cap": "Hội Bảo tồn Di sản chữ Nôm (Vietnamese Nôm Preservation Foundation)",
+      "duong_dan": "https://www.nomfoundation.org/nom-project/Digital-Library-of-Han-Nom?uiLang=vn",
+      "nhom_nguon": "Nguồn tra cứu Hán Nôm",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200)",
+      "mo_ta_gia_tri": "Cung cấp tự điển dẫn giải, bảng tra Nôm – Hán Việt và phông chữ Nôm phục vụ phiên âm và đối chiếu chữ viết tay."
+    },
+    {
+      "id": 5,
+      "ten_nguon": "Trung tâm Lưu trữ quốc gia I",
+      "don_vi_cung_cap": "Cục Văn thư và Lưu trữ nhà nước",
+      "duong_dan": "https://luutru.gov.vn/co-cau-to-chuc/trung-tam-luu-tru-quoc-gia-i.htm",
+      "nhom_nguon": "Nguồn nghiên cứu bảo tồn, lưu trữ và số hóa",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200)",
+      "mo_ta_gia_tri": "Tham chiếu chuẩn mực bảo quản và nghiệp vụ lưu trữ tài liệu Hán Nôm cổ."
+    },
+    {
+      "id": 6,
+      "ten_nguon": "Dịch thuật tài liệu Hán – Nôm",
+      "don_vi_cung_cap": "Thư viện Khoa học Tổng hợp TP. Hồ Chí Minh",
+      "duong_dan": "https://www.thuvientphcm.gov.vn/Dich-thuat-tai-lieu-Han-Nom2",
+      "nhom_nguon": "Nguồn tra cứu Hán Nôm",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200)",
+      "mo_ta_gia_tri": "Tham khảo quy trình sưu tầm, số hóa và thẩm định dịch thuật tài liệu Hán – Nôm trong cộng đồng."
+    },
+    {
+      "id": 7,
+      "ten_nguon": "Giải pháp phát huy giá trị vốn tài liệu Hán Nôm tại các thư viện Việt Nam",
+      "don_vi_cung_cap": "Khoa Khoa học Cơ bản – Trường Đại học Khoa học, Đại học Thái Nguyên",
+      "duong_dan": "https://khcb.tnus.edu.vn/chi-tiet/4456-Giai-phap-phat-huy-gia-tri-von-tai-lieu-han-nom-tai-cac-thu-vien-Viet-Nam",
+      "nhom_nguon": "Nguồn nghiên cứu bảo tồn, lưu trữ và số hóa",
+      "trang_thai_truy_cap": "Đã kiểm tra truy cập trực tiếp (HTTP 200)",
+      "mo_ta_gia_tri": "Bài viết phân tích các giải pháp bảo tồn vật mang tin Hán Nôm và phát huy giá trị qua số hóa."
+    }
+  ]
+}

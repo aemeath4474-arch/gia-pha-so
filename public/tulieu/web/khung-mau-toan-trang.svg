@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600" role="img" aria-label="Khung mẫu vị trí ảnh toàn trang bản chép tay">
+  <rect width="800" height="600" fill="#F3EFE7" />
+  <rect x="24" y="24" width="752" height="552" fill="#FBF9F5" stroke="#D6CEBE" stroke-width="2" />
+  <rect x="44" y="44" width="712" height="512" fill="none" stroke="#D6CEBE" stroke-width="1" stroke-dasharray="6 6" />
+  <line x1="400" y1="64" x2="400" y2="536" stroke="#E5DFD3" stroke-width="1" />
+  <line x1="64" y1="300" x2="736" y2="300" stroke="#E5DFD3" stroke-width="1" />
+  <text x="400" y="255" text-anchor="middle" font-family="serif" font-size="22" font-weight="600" fill="#292524">
+    KHUNG MẪU VỊ TRÍ ẢNH TOÀN TRANG
+  </text>
+  <text x="400" y="290" text-anchor="middle" font-family="sans-serif" font-size="14" fill="#57534E">
+    Chưa có ảnh tư liệu thật được tải lên (Không sử dụng ảnh giả)
+  </text>
+  <text x="400" y="325" text-anchor="middle" font-family="monospace" font-size="12" fill="#78716C">
+    Thư mục hiển thị: /public/tulieu/web/ · Bản gốc lưu riêng tại /public/tulieu/goc/
+  </text>
+  <text x="400" y="355" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#9A3412">
+    Có thể tải ảnh bản chép tay lên để thử chức năng đọc chữ với Gemini
+  </text>
+</svg>
